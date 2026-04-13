@@ -1,0 +1,6 @@
+para rodar
+
+Bash
+docker-compose up --build
+
+http://localhost:8501
